@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "670661152883",
+    "project_id": "ordark",
+    "storage_bucket": "ordark.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670661152883:android:f047a42d8b06fc973b1a06",
+        "android_client_info": {
+          "package_name": "com.ordark.store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "670661152883-gv1o0onm6bpoqm1i4b9uvtlcvb4fe41d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ordark.store",
+            "certificate_hash": "41615c1fabf2a97187a8229355240339df110138"
+          }
+        },
+        {
+          "client_id": "670661152883-nm8ihmv9klb6ugvhb9tkiaeeubdg3dj3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ordark.store",
+            "certificate_hash": "b60e9c9fc1d6f1c8c28d21914cccb7779a6daffb"
+          }
+        },
+        {
+          "client_id": "670661152883-qbh1mh7pktg2gkvhci0j06o3qdopn2bs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ordark.store",
+            "certificate_hash": "28960ac5cf23d80cca7d31963048eb1d00ff999a"
+          }
+        },
+        {
+          "client_id": "670661152883-77qkahi2v095s05pu3u5kk5sd1nneuaj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1vBDO6uLaI8uluEpFXNVEl1bafT-xBfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "670661152883-77qkahi2v095s05pu3u5kk5sd1nneuaj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
